@@ -1,8 +1,8 @@
 # Synergy Loadout Master - Stat Export
 
-`Synergy Loadout Master - Stat Export` is a small World of Warcraft addon that exports your current character stats for use in the Synergy Loadout Master website.
+`Synergy Loadout Master - Stat Export` is a small World of Warcraft addon that exports your current character stats for use in the [Synergy Loadout Master](https://sypherred.github.io/syn_loadout-master/) website.
 
-It is intended for the Echo Planner and Echo Admin tools, where imported stats are used to evaluate dynamic echo formulas more accurately.
+It is intended for the Echo Planner and Echo tools, where imported stats are used to evaluate dynamic echo formulas more accurately.
 
 ## Installation
 
