@@ -1,0 +1,8 @@
+## Interface: 30300
+## Title: Synergy Loadout Master - Stat Export
+## Notes: Exports character stats for Synergy Loadout Master.
+## Author: Sypher
+## Version: 1.0.0
+## SavedVariables: SynStatExportDB
+
+SynStatExport.lua
